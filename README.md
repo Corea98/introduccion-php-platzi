@@ -1,1 +1,1 @@
-# curso-introduccion-php
+# Curso de platzi - Introducción a PHP
