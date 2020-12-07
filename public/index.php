@@ -38,7 +38,7 @@ $request = Laminas\Diactoros\ServerRequestFactory::fromGlobals(
     $_FILES
 );
 
-$base_url = '/platzi/php-introduccion/curso-introduccion-php-18-forms';
+$base_url = '';
 $routerContainer = new RouterContainer();
 $map = $routerContainer->getMap();
 $map->get('index', $base_url . '/', [
